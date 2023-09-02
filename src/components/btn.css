@@ -1,0 +1,21 @@
+.btn{
+    height: 150px;
+    width: 150px;
+    background-color: #252B48;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: "Black ops one", sans-serif;
+}
+
+.btn:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
